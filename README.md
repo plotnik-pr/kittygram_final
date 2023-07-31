@@ -33,7 +33,7 @@ SECRET_KEY = 'SECRET_KEY'
 DEBUG = 'True'
 ALLOWED_HOSTS = 'HOST'
 ```
-Для запуска проекта выполните команду
+Для запуска проекта выполните команду 
 ```
 sudo docker compose -f docker-compose.production.yml up --build 
 ```
